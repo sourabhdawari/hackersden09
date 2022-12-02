@@ -1,0 +1,26 @@
+<section className="">
+    <div className="row">
+      <div className="col about">
+        <div class="text-center m-5">
+          <span className="h1 ct">
+            {/* <i class="fa fa-calendar  mt-3 card-img-top"></i> */}
+          </span>
+          <div class=" text-light">
+            {/* <h3>5+ </h3> */}
+            {/* <h5 class="card-title">EXPERIENCE</h5> */}
+          </div>
+        </div>
+      </div>
+      {/* <div className="col about">
+        <div class="m-5 text-center">
+          <span className="h1 ct">
+            <i class="fa fa-bug  mt-3 card-img-top"></i>
+          </span>
+          <div class=" text-light">
+            <h3>100+ </h3>
+            <h5 class="card-title">TESTINGS</h5>
+          </div>
+        </div>
+      </div> */}
+    </div>
+  </section>
