@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hackersden09/static/css/main.f3563a6a.css",
+    "main.js": "/hackersden09/static/js/main.a478fe1e.js",
+    "static/js/787.b68f50f7.chunk.js": "/hackersden09/static/js/787.b68f50f7.chunk.js",
+    "static/media/homebg.jpg": "/hackersden09/static/media/homebg.23f37ede6d3d8924806f.jpg",
+    "static/media/Hackersden.png": "/hackersden09/static/media/Hackersden.974e35a4fe60625dc0d4.png",
+    "static/media/Android-system-architecture.jpg": "/hackersden09/static/media/Android-system-architecture.0e343e39ae61de7875cf.jpg",
+    "static/media/uid-01.png": "/hackersden09/static/media/uid-01.b33d178268e0749725a8.png",
+    "static/media/Hackersden.gif": "/hackersden09/static/media/Hackersden.4c3d75e1f515d110596e.gif",
+    "static/media/dp.webp": "/hackersden09/static/media/dp.55ffa063df9671ecd4a5.webp",
+    "static/media/Android-system-architecture2.jpg": "/hackersden09/static/media/Android-system-architecture2.92b84e0662967bd0671e.jpg",
+    "static/media/genomotion05-187x300.png": "/hackersden09/static/media/genomotion05-187x300.a015f74d43e9cb30c6f3.png",
+    "static/media/genomotion02-.png": "/hackersden09/static/media/genomotion02-.d5bdebbfcf295e97524d.png",
+    "static/media/genomotion04-300x214.png": "/hackersden09/static/media/genomotion04-300x214.1f559045b4a17a3e4823.png",
+    "static/media/genomotion01.png": "/hackersden09/static/media/genomotion01.21d298836b27b2dcdcbe.png",
+    "static/media/genomotion03-300x226.png": "/hackersden09/static/media/genomotion03-300x226.d5e46dda58a48feee958.png",
+    "index.html": "/hackersden09/index.html",
+    "main.f3563a6a.css.map": "/hackersden09/static/css/main.f3563a6a.css.map",
+    "main.a478fe1e.js.map": "/hackersden09/static/js/main.a478fe1e.js.map",
+    "787.b68f50f7.chunk.js.map": "/hackersden09/static/js/787.b68f50f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3563a6a.css",
+    "static/js/main.a478fe1e.js"
+  ]
+}
