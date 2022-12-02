@@ -71,7 +71,7 @@ export default function About() {
                     </p>
                     <div className="d-flex container justify-content-center ">
                       <div class="rounded-pill text-white  p-2 hire">
-                        <span className=" ct">Get CV</span>
+                        {/* <span className=" ct">Get CV</span> */}
                       </div>
                     </div>
                   </div>
