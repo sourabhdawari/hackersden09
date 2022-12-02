@@ -69,11 +69,7 @@ export default function About() {
                       <h3 className="ct"> {">"} Author's Bio</h3>
                       I am a Security consultant at Payatu. He has experience in Web, API, Android, iOS, and Hardware penetration testing with 3+ years of experience. He loves contributing, being a part of security communities, and helping people get started in InfoSec. He is also doing research in iOS and hardware security. At Payatu, he is responsible for the security assessment of Web, API, Mobile, and Hardware. He also loves to hunt on bug bounty programs and achieved more than 50 Hall of fame in the same—also an achiever of the most valuable player tag on bug bounty platforms.
                     </p>
-                    <div className="d-flex container justify-content-center ">
-                      <div class="rounded-pill text-white  p-2 hire">
-                        {/* <span className=" ct">Get CV</span> */}
-                      </div>
-                    </div>
+                    
                   </div>
                 </div>
               </div>
